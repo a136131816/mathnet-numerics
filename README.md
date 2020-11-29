@@ -1,5 +1,6 @@
 Math.NET Numerics
 =================
+中文介绍：https://blog.csdn.net/asxinyu_usst/article/details/50703526
 
 Math.NET Numerics is an opensource **numerical library for .Net, Silverlight and Mono**.
 
